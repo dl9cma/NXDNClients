@@ -456,7 +456,7 @@
 # 26200 Deutschland
 26200	dl.nxdn.eu	41400
 
-# 26230 AFU Region Hannover
+# 26230 DL-RegHannover
 26230 regh.nxdn.eu 41400
 
 # 26269 Multimode HE_RLP
