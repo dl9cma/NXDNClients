@@ -457,7 +457,7 @@
 26200	dl.nxdn.eu	41400
 
 # 26230 DL-RegHannover
-26230 regh.nxdn.eu 41401
+26230 regh.nxdn.eu 41410
 
 # 26269 Multimode HE_RLP
 26269 urf169.dc9vq.de 41400
